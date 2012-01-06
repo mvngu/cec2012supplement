@@ -1,5 +1,5 @@
-The Genetic Programming Bibliography
-====================================
+Genetic Programming Bibliography
+================================
 
 Downloaded on 25th August 2011 from
 

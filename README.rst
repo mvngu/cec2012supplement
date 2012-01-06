@@ -14,7 +14,7 @@ We consider two versions of this dataset:
   ``editors/`` for this version.
 
 * Second version: only consider authors and exclude editors.  See the
-  directory ``noeditors/`` for this other version of the gp dataset.
+  directory ``noeditors/`` for this other version of the GP dataset.
 
 
 Datasets

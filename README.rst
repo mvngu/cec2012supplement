@@ -18,7 +18,7 @@ We consider two versions of this dataset:
 
 
 Datasets
-========
+--------
 
 Here's an explanation of the dataset files we used:
 
@@ -40,7 +40,7 @@ Here's an explanation of the dataset files we used:
 
 
 Source code
-===========
+-----------
 
 The directory src/ contains source code of programs to preprocess the
 GP dataset.  It also has programs to track dynamic communities based
@@ -48,7 +48,7 @@ on a community life-cycle.
 
 
 License
-=======
+-------
 
 All source code are licensed under the terms of the GNU General Public
 License, either version 2 or (at your option) any later version.  For

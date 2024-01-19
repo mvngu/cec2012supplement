@@ -1,6 +1,8 @@
 Genetic Programming Bibliography
 ================================
 
+Supplementary materials for my paper for the conference IEEE-CEC2012. See http://www.ieee-wcci2012.org
+
 Downloaded on 25th August 2011 from
 
 http://www.cs.bham.ac.uk/~wbl/biblio/
